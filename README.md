@@ -1,4 +1,4 @@
-# TheWeatherApp
+# TheWeatherApp🌤☔️
 
 <p>Web Technology Mini Project</p>
 
