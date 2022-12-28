@@ -2,7 +2,7 @@
 
 <p>Web Technology Mini Project</p>
 
-<p><a href = "https://pes.edu">@PES University</a></p>
+<p><a href = "https://pes.edu">@PES University ECC</a></p>
 
 <p>This is a Node.Js app that shows the current temperature of any city across the globe, made using the OpenWeatherMap API.</p>
 
